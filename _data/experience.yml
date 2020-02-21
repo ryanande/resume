@@ -141,4 +141,35 @@
     Designed and developed several tools for data importation which included complex algorithms to validate and reduce data density without the loss of important scientific data. These allowed Wildermuth to focus more on their science and less on worrying about data validity and integrity.
   
     Collaborated with a small team to deliver a system which allowed our clients to interface with to filter and analyze their data with multifaceted analytical tools and reporting metrics facilities
+
+- layout: left
+  company: Keyne Insight, Inc.
+  link: keyneinsight.com
+  job_title: Senior Programmer, I/T Specialist
+  dates: July 2005 - May 2007
+  quote: >
+    Built KeyneLink, a world class, web based execution management system created to bridge the gap between strategy and execution
+  description: | # this will include new lines to allow paragraphs
+    Successfully transferred a paper-based system into a full blow extensible web-based data driven solution
+  
+    Reduced thousands of dollars in data entry fees through .NET based software solutions which enabled the staff of consultants to deliver a real-time system to their clients and devote more time actually consulting instead of crunching numbers
+  
+    Designed and administered the company’s internal network including setting up a VPN solution to allow employees to access the network remotely and securely saving thousands of dollars in office space
+  
+    Instituted rich data reporting tools using SSRS (SQL Server Reporting Services) giving the leadership team greater insight into the 
+
+- layout: left
+  company: American Home Mortgage
+  link: americanhm.com/
+  job_title: Senior Programmer
+  dates: October 2001 - July 2005
+  quote: >
+    Internal web based marketing portal procurment system, and spam machine green field development
+  description: | # this will include new lines to allow paragraphs
+    Mobilized a small team of designers, developers, and database administrators in designing and building a green field application for the marketing organization enabling them to engage more accurately with current and prospected customers
+  
+    Constructed an ecommerce website for loan officers to manage contacts, prospective clients, order customizable cross branded marketing collateral with 3rd party fulfillment vendors all with .NET Web Forms, .NET Web Services, and a SQL Server backend.
+  
+    Using cutting technologies of the time with ASP.NET 1.0 and later 1.1, this system recently was sold to Prospect Mortgage for $380,000 from Indy Mac and is continuing to add true value to the users of the system
+  
   
