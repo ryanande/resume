@@ -1,0 +1,60 @@
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Personal info
+name: Ryan Anderson
+title: Software Architect
+email: ryan.anderson@buzzuti.com
+website: www.github.com/ryanande/resume
+
+# Social links
+twitter_username: ryanande
+github_username:  ryanande
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+instagram_username: buzzuti
+linkedin_username: ryanmanderson
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.png
+about_content: | # this will include new lines to allow paragraphs
+  While working in the information technology industry for over 20 years, I have built a breadth of knowledge and experience. From network systems architecture and maintenance to hardcore lean software development using Microsoft technologies. With a real passion for technology and a work ethic which has driven departments, I bring a solid and extensible set of skills to the table.
+
+  Specialties: .NET Systems Architecture specializing in web based solutions ala cloud and software development team management. Full stack development.
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+   - Rock climbing
+   - Gaming
+   - Knitting
+   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag

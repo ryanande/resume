@@ -1,0 +1,8 @@
+- layout: left
+  name: University of Phoenix
+  dates: 2003 - 2008
+  qualification: BS Information Technology
+  quote: >
+    The University of Phoenix is a for-profit university headquartered in Phoenix, Arizona. Founded in 1976, the school confers certificates and degrees in over 100 certificate programs and degree programs at the certificate, associate, bachelor's, master's, and doctoral degree levels.
+  description: | # this will include new lines to allow paragraphs
+    During my time at UoP I grounded myself in all aspects of Information Technology which bolstered my skillset from mere software developer to a more well rounded technologist.
