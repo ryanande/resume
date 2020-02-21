@@ -1,8 +1,20 @@
 - layout: top-middle
   name: T4Config
-  link: github.com/r
-  github: sproogen/resume-theme
+  link: github.com/ryanande/T4Config
+  github: ryanande/T4Config
   quote: >
     One of my first adventures while sitting next to Jay Otterbien at Headspring.
   description: | # this will include new lines to allow paragraphs
     This project was born out of floppy strings and typos. In a nutshell, this tool is a down and dirty way to have strongly typed Config Settings and Connection Strings in your projects by using T4 templates.
+
+- layout: top-middle
+  name: JsCombGuid
+  link: github.com/ryanande/JsCombGuid
+  github: ryanande/JsCombGuid
+  quote: >
+    Born out of learnings and experience from messaging, SOA, and <a href="http://udidahan.com/">Udi Dahan</a>.
+  description: | # this will include new lines to allow paragraphs
+    Created this little gem while building a client side UI that served as the frontend of a service oriented architecture. At the time we were using Particular's NService Bus and we needed a way to create sequential unique identifiers on the client. 
+    
+    This was also a fun little jaunt in creating and publishing npm packages, like we needed another one...  (<a href="https://www.npmjs.com/package/jscombguid">npm jscombguid</a>)
+  
