@@ -62,4 +62,83 @@
   
     Contributed to various open source projects and internal toolsets
   
+- layout: left
+  company: Sightly
+  link: sightly.com
+  job_title: Director Of Engineering
+  dates: August 2012 - April 2014
+  quote: >
+    Guided a team of developers and designers in lean startup product development.
+  description: | # this will include new lines to allow paragraphs
+    Constructed and cultivated a team of competent developers and designers from the ground up who delivered a v1.0 cloud-based core product. This enabled Sightly to benefit from several more rounds of funding and ultimately turn a profit
+    
+    Architected a multi-service SOA based architecture using nServiceBus and Microsoft Azure, Azure ServiceBus, and Azure Media Services to enable large multi-targeted enterprise scale Google Instream video advertising campaigns for large corporations
+
+    Established a first-class user experience for the Sightly core product using a front-end JavaScript framework (single page application)
+
+    Collaborated closely with Google AdWords team and fostering a relationship enabling Sightly to become a Premier Partner
+
+    Constructed the original Sightly iOS mobile application, worked closely with stakeholders to nail the user experience using Xamarin
+  
+- layout: left
+  company: TrustEgg, Inc.
+  link: trustegg.com
+  job_title: Lead Solutions Architect
+  dates: June 2013 - April 2014
+  quote: >
+    Startup foundational application development
+  description: | # this will include new lines to allow paragraphs
+    Directed the design and implementation of the TrustEgg core product systems and integrations to include front end user experience and backend systems all on the .NET stack
+    
+    Guided overall product strategy and project management and execution of the team’s technical efforts
+    
+    Facilitated code quality, knowledge management, and team member mentoring
+
+    Supervised the overall application inventory all based in Microsoft Azure
+  
+- layout: left
+  company: WALZ, Inc.
+  link: walz.com
+  job_title: Software Engineer II
+  dates: May 2010 - August 2012
+  quote: >
+    Document management systems development
+  description: | # this will include new lines to allow paragraphs
+    Lead the implementation of Team Foundation Server 2010 along with SharePoint Server 2010 including build automation, code level analytics, and team member work item management enabling the organization to centralize work efforts, priorities, code repositories, automate build and delivery, and streamline overall execution of the development organization
+  
+    Spearheaded the design and construction of a web-based document approval system for our client management team to track communications with clients in a centralized repository
+  
+    Aligned the overall organization and execution temp of the Quality Assurance team through industry standards and best practices to enable the development team to deliver at a higher quality
+
+- layout: left
+  company: Prospect Mortgage, LLC
+  link: prospectmortgage.com
+  job_title: Software Programmer III
+  dates: August 2009 - August 2010
+  quote: >
+    Residential mortgage loan warehousing green field software systems development
+  description: | # this will include new lines to allow paragraphs
+    Engineered identical development, qa, and stage environments all feed by an automated CI/ CD pipeline using CruiseControl.NET, NANT, NDepend, Simian and NCover. The artifacts and metrics gain from this effort enabled technical strategy to reach a new level for accurately prioritizing development execution
+  
+    Delivered a large-scale web-based loan tracking and reporting metrics application using ASP.NET MVC which allowed managers to gain granular real-time insight into active loan pipeline statuses and warehouse inventories
+  
+    Instrumental in deploying and configuring an enterprise level clustered SQL Server environment providing high availability to core company applications which bolstered the availability, security, and redundancy of company data
+  
+    Lead internal knowledge shares and cross team learning exercises which minimized single points of failure across the team’s applications
+    
+- layout: left
+  company: Wildermuth Environmental, Inc.
+  link: weiwater.com
+  job_title: Senior Programmer/ Analyst
+  dates: June 2007 - June 2009
+  quote: >
+    Large Data! Ground water quality and level data management and analysis.
+  description: | # this will include new lines to allow paragraphs
+    Successfully guided the database systems team and data systems into an enterprise class facility
+  
+    Working with immense volumes of groundwater elevation and quality data dating back nearly 100 years, I lead in the designed and development of systems to migrate from archaic systems into SQL Server 2005 systems
+  
+    Designed and developed several tools for data importation which included complex algorithms to validate and reduce data density without the loss of important scientific data. These allowed Wildermuth to focus more on their science and less on worrying about data validity and integrity.
+  
+    Collaborated with a small team to deliver a system which allowed our clients to interface with to filter and analyze their data with multifaceted analytical tools and reporting metrics facilities
   
